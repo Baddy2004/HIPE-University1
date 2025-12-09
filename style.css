@@ -1,0 +1,27 @@
+body {
+    background: linear-gradient(135deg, #117bc2, #630404);
+    font-family: Arial, sans-serif;
+}
+
+header h1 {
+    font-weight: bold;
+}
+
+.card {
+    border-radius: 10px;
+}
+
+button.btn-primary {
+    background-color: #0d6efd;
+    border: none;
+    transition: background-color 0.3s ease;
+}
+
+button.btn-primary:hover {
+    background-color: #084298;
+}
+
+footer {
+    font-size: 0.9rem;
+    color: #555;
+}
